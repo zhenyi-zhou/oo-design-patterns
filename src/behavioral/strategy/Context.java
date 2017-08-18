@@ -1,3 +1,5 @@
+package behavioral.strategy;
+
 public class Context {
   private String name = "Context";
   private Strategy strategy;

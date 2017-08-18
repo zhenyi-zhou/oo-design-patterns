@@ -1,3 +1,5 @@
+package creational.factory;
+
 public class ProductB implements Product {
   private String name = "ProductB";
   

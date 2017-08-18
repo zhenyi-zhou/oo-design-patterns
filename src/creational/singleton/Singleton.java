@@ -1,3 +1,5 @@
+package creational.singleton;
+
 public final class Singleton {
   private String name = "Singleton";
   private static Singleton instance = new Singleton();

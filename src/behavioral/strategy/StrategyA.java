@@ -1,3 +1,5 @@
+package behavioral.strategy;
+
 public class StrategyA implements Strategy {
   private String name = "StrategyA";
   

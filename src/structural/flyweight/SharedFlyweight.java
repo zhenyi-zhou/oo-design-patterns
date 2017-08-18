@@ -1,3 +1,5 @@
+package structural.flyweight;
+
 public class SharedFlyweight implements Flyweight {
   private String name = "SharedFlyweight";
   private String key;

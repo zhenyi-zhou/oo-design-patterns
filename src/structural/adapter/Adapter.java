@@ -1,3 +1,5 @@
+package structural.adapter;
+
 public class Adapter implements Target {
   private Adaptee adaptee;
   

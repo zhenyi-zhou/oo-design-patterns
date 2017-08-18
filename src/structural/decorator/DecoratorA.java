@@ -1,3 +1,5 @@
+package structural.decorator;
+
 public class DecoratorA extends Decorator {
   private String name = "DecoratorA";
   

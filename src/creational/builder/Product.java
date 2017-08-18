@@ -1,3 +1,5 @@
+package creational.builder;
+
 public class Product {
   private String name = "ProductA";
   private String component1;

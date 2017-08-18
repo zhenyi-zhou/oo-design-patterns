@@ -1,3 +1,5 @@
+package behavioral.mediator;
+
 public interface Mediator {
   public void setColleague1(Colleague1 colleague1);
   public void setColleague2(Colleague2 colleague2);

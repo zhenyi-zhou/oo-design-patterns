@@ -1,3 +1,5 @@
+package structural.composite;
+
 public class Leaf implements Component {
   private String name = "Leaf";
   

@@ -1,3 +1,5 @@
+package behavioral.command;
+
 public class CommandA implements Command {
   private Receiver receiver;
   

@@ -1,3 +1,5 @@
+package behavioral.memento;
+
 public class Originator {
   private String name = "Originator";
   private String state;

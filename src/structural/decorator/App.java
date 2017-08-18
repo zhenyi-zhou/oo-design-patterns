@@ -1,3 +1,5 @@
+package structural.decorator;
+
 public class App {
   public static void main(String[] args) {
     Component componentA = new DecoratorB(new DecoratorA(new ComponentA()));

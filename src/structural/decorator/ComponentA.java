@@ -1,3 +1,5 @@
+package structural.decorator;
+
 public class ComponentA implements Component {
   private String name = "ComponentA";
   

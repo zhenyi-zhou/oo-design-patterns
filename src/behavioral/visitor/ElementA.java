@@ -1,3 +1,5 @@
+package behavioral.visitor;
+
 public class ElementA implements Element {
   private String name = "ElementA";
   

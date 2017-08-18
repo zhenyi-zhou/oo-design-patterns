@@ -1,3 +1,5 @@
+package behavioral.mediator;
+
 public class Colleague1 implements Colleague {
   private String name = "Colleague1";
   private Mediator mediator;

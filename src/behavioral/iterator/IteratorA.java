@@ -1,3 +1,5 @@
+package behavioral.iterator;
+
 import java.util.List;
 
 public class IteratorA implements Iterator {

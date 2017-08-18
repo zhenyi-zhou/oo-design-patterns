@@ -1,3 +1,5 @@
+package behavioral.state;
+
 public class Context {
   private String name = "Context";
   private State state;

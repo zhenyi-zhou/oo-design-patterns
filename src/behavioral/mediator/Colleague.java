@@ -1,3 +1,5 @@
+package behavioral.mediator;
+
 public interface Colleague {
   public String getName();
   public void send(String message);

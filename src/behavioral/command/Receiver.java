@@ -1,3 +1,5 @@
+package behavioral.command;
+
 public class Receiver {
   private String name = "Receiver";
   

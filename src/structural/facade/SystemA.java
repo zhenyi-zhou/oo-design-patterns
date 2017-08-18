@@ -1,3 +1,5 @@
+package structural.facade;
+
 public class SystemA {
   private String name = "SystemA";
   

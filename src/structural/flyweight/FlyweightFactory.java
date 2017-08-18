@@ -1,3 +1,5 @@
+package structural.flyweight;
+
 import java.util.HashMap;
 
 public class FlyweightFactory {

@@ -1,3 +1,5 @@
+package behavioral.memento;
+
 public class App {
   public static void main(String[] args) {
     Originator originator = new Originator();

@@ -1,3 +1,5 @@
+package behavioral.command;
+
 public class App {
   public static void main(String[] args) {
     Receiver receiver = new Receiver();

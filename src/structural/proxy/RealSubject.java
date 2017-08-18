@@ -1,3 +1,5 @@
+package structural.proxy;
+
 public class RealSubject implements Subject {
   private String name = "RealSubject";
   

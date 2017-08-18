@@ -1,3 +1,5 @@
+package behavioral.mediator;
+
 public class App {
   public static void main(String[] args) {
       Mediator mediatorA = new MediatorA();

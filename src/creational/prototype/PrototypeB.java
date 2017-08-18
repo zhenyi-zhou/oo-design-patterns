@@ -1,3 +1,5 @@
+package creational.prototype;
+
 public class PrototypeB extends Prototype {
   private String name = "PrototypeB";
   

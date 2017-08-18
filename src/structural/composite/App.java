@@ -1,3 +1,5 @@
+package structural.composite;
+
 public class App {
   public static void main(String[] args) {
     Leaf leaf1 = new Leaf();

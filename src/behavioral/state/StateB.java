@@ -1,3 +1,5 @@
+package behavioral.state;
+
 public class StateB implements State {
   private String name = "StateB";
   

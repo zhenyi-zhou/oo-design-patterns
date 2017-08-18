@@ -1,3 +1,5 @@
+package creational.prototype;
+
 public class Client {
   private Prototype prototype;
   

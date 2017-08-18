@@ -1,3 +1,5 @@
+package structural.facade;
+
 public class Facade {
   private SystemA systemA;
   private SystemB systemB;

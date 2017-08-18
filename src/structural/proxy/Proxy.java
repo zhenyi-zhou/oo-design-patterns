@@ -1,3 +1,5 @@
+package structural.proxy;
+
 public class Proxy implements Subject {
   private String name = "Proxy";
   private RealSubject realSubject;

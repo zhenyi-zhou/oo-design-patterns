@@ -1,3 +1,5 @@
+package behavioral.mediator;
+
 public class MediatorA implements Mediator {
   private Colleague1 colleague1;
   private Colleague2 colleague2;

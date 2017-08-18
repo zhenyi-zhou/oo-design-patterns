@@ -1,3 +1,5 @@
+package structural.bridge;
+
 public class App {
   public static void main(String[] args) {
     Abstraction abstractionA = new RefinedAbstraction(new ImplementorA());

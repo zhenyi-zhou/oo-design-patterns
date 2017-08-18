@@ -1,3 +1,5 @@
+package creational.factory;
+
 public class Factory {
   private String name = "Factory";
   

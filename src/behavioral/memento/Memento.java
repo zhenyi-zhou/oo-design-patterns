@@ -1,3 +1,5 @@
+package behavioral.memento;
+
 public class Memento {
   private String name = "Memento";
   private String state;

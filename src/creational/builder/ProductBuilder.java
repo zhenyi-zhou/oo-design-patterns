@@ -1,3 +1,5 @@
+package creational.builder;
+
 public class ProductBuilder implements Builder {
   private String name = "ProductBuilder";
   private Product product;

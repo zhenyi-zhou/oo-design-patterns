@@ -1,3 +1,5 @@
+package structural.adapter;
+
 public class Adaptee {
   private String name = "Adaptee";
   

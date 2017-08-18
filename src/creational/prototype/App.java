@@ -1,3 +1,5 @@
+package creational.prototype;
+
 public class App {
   private Prototype prototype;
   

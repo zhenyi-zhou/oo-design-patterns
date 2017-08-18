@@ -1,3 +1,5 @@
+package behavioral.iterator;
+
 public class IteratorB implements Iterator {
   private String[] aggregateArray;
   private int length;

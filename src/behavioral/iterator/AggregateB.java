@@ -1,3 +1,5 @@
+package behavioral.iterator;
+
 public class AggregateB implements Aggregate {
   private String name = "AggregateB";
   private String[] aggregateArray = {name, "First",  "Second",  "Third",  "Fourth",  "Fifth"};

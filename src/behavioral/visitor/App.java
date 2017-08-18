@@ -1,3 +1,5 @@
+package behavioral.visitor;
+
 public class App {
   public static void main(String[] args) {
     Visitor visitor1 = new Visitor1();

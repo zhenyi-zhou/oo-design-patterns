@@ -1,3 +1,5 @@
+package structural.bridge;
+
 public abstract class Abstraction {
   protected Implementor implementor;
   

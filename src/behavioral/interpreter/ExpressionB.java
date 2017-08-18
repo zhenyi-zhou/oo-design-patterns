@@ -1,3 +1,5 @@
+package behavioral.interpreter;
+
 public class ExpressionB implements Expression {
   private String name = "ExpressionB";
   
